@@ -1,3 +1,7 @@
+# Integrantes
+
+Augusto B. González
+
 # Calc
 
 Calculadora con funciones simples.
