@@ -17,6 +17,11 @@ function res(a, b) {}
 function mul(a, b) {}
 
 function div(a, b) {
+    if (b != 0) {
+        return a / b;
+    } else {
+        return "Error: div by 0"
+    }
     // Tener en cuenta division por 0
     // Si b es 0 retornar "Error: div by 0"
 }
