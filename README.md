@@ -2,6 +2,8 @@
 
 Augusto B. González
 
+Marcelo J. Zualet
+
 # Calc
 
 Calculadora con funciones simples.
