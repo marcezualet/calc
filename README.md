@@ -6,6 +6,8 @@ Marcelo J. Zualet
 
 Paladino Juan Cruz
 
+Guillermo A. Del Vecchio
+
 # Calc
 
 Calculadora con funciones simples.
