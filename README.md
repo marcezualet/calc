@@ -4,6 +4,8 @@ Augusto B. González
 
 Marcelo J. Zualet
 
+Paladino Juan Cruz
+
 # Calc
 
 Calculadora con funciones simples.
