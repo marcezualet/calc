@@ -31,7 +31,7 @@ function div(a, b) {
 }
 
 function pow(a, b) {
-    return Math.pow(a, b);
+    return a ** b;
 }
 
 module.exports = fns;
